@@ -1,0 +1,125 @@
+{
+  "Login": {
+    "title": "Giriş",
+    "welcome": "Hoş geldiniz, {name}!",
+    "username": "Kullanıcı adı",
+    "password": "Şifre",
+    "login": "Giriş",
+    "passwordRequired": "Şifre gerekli",
+    "usernameRequired": "Kullanıcı adı gerekli",
+    "showPassword": "Şifreyi göster",
+    "hidePassword": "Şifreyi gizle"
+  },
+  "AppBar": {
+    "appTitle": "İletişim Formu Yönetim Sistemi",
+    "changeLanguage": "Dili değiştir",
+    "darkMode": "Karanlık Mod",
+    "lightMode": "Aydınlık Mod",
+    "logout": "Çıkış",
+    "messages": "Mesajlar",
+    "users": "Kullanıcılar",
+    "reports": "Raporlar",
+    "loggedOut": "Başarıyla çıkış yapıldı"
+  },
+  "Messages": {
+    "title": "Mesajlar"
+  },
+  "MessagesTable": {
+    "read": "Okundu",
+    "unread": "Okunmadı",
+    "name": "Ad",
+    "message": "Mesaj",
+    "gender": "Cinsiyet",
+    "country": "Ülke",
+    "status": "Durum",
+    "received": "Alındı",
+    "actions": "İşlemler",
+    "messageRemoveSuccess": "Mesaj başarıyla silindi",
+    "noMessages": "Mesaj bulunamadı",
+    "viewDetails": "Detayları görüntüle",
+    "delete": "Sil",
+    "female": "Kadın",
+    "male": "Erkek",
+    "rowsPerPage": "Sayfa başına satır",
+    "displayedRows": "{from}-{to} / {count}",
+    "disableInfiniteScroll": "Sonsuz kaydırmayı devre dışı bırak",
+    "enableInfiniteScroll": "Sonsuz kaydırmayı etkinleştir"
+  },
+  "MessageDetail": {
+    "title": "Detaylar",
+    "name": "Ad",
+    "message": "Mesaj",
+    "gender": "Cinsiyet",
+    "country": "Ülke",
+    "backToList": "Listeye geri dön",
+    "markedAsRead": "Okundu olarak işaretlendi",
+    "male": "Erkek",
+    "female": "Kadın",
+    "messageNotFound": "Mesaj bulunamadı"
+  },
+  "MessageForm": {
+    "title": "Mesaj gönder",
+    "name": "Ad",
+    "message": "Mesaj",
+    "gender": "Cinsiyet",
+    "country": "Ülke",
+    "female": "Kadın",
+    "male": "Erkek",
+    "submit": "Gönder",
+    "thankYou": "Mesajınız başarıyla gönderildi",
+    "nameRequired": "Ad gerekli",
+    "messageRequired": "Mesaj gerekli",
+    "maxMessageLength": "Mesaj en fazla 500 karakter olabilir",
+    "maxNameLength": "Ad en fazla 50 karakter olabilir"
+  },
+  "UserDetail": {
+    "add": "Kullanıcı Ekle",
+    "update": "Kullanıcı Düzenle",
+    "backToList": "Listeye geri dön",
+    "username": "Kullanıcı adı",
+    "password": "Şifre",
+    "role": "Rol",
+    "reader": "Okuyucu",
+    "usernameRequired": "Kullanıcı adı gerekli",
+    "passwordRequired": "Şifre gerekli",
+    "maxUsernameLength": "Kullanıcı adı en fazla 10 karakter olabilir",
+    "maxPasswordLength": "Şifre en fazla 10 karakter olabilir",
+    "photoRequired": "Fotoğraf gerekli",
+    "userNotFound": "Kullanıcı bulunamadı",
+    "addedSuccess": "Kullanıcı {username} başarıyla eklendi",
+    "updatedSuccess": "Kullanıcı {username} başarıyla güncellendi"
+  },
+  "ImageUpload": {
+    "dragAndDrop": "Buraya bir resim sürükleyin ya da seçmek butona tıklayın",
+    "reupload": "Farklı bir resim yükle",
+    "remove": "Fotoğrafı kaldır",
+    "uploadPhoto": "Fotoğraf Yükle"
+  },
+  "Reports": {
+    "title": "Raporlar",
+    "messageCountByCountry": "Ülkeye göre mesaj sayısı",
+    "messageCountByGender": "Cinsiyete göre mesaj sayısı",
+    "female": "Kadın",
+    "male": "Erkek"
+  },
+  "Users": {
+    "title": "Kullanıcılar",
+    "addUser": "Kullanıcı Ekle"
+  },
+  "UsersTable": {
+    "photo": "Fotoğraf",
+    "username": "Kullanıcı adı",
+    "edit": "Düzenle",
+    "noUsers": "Kullanıcı bulunamadı",
+    "editUserDetails": "Kullanıcı detaylarını düzenle"
+  },
+  "NotAuthorized": {
+    "title": "403 - Yetkisiz",
+    "message": "Bu sayfayı görüntülemek için yetkiniz yok.",
+    "backToHome": "Ana sayfaya dön"
+  },
+  "NotFound": {
+    "title": "404 - Bulunamadı",
+    "message": "Aradığınız sayfa bulunamadı."
+  }
+}

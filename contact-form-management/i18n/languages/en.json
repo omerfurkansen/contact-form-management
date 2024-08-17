@@ -1,0 +1,125 @@
+{
+  "Login": {
+    "title": "Login",
+    "welcome": "Welcome, {name}!",
+    "username": "Username",
+    "password": "Password",
+    "login": "Login",
+    "passwordRequired": "Password is required",
+    "usernameRequired": "Username is required",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password"
+  },
+  "AppBar": {
+    "appTitle": "Contact Form Management System",
+    "changeLanguage": "Change language",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "logout": "Logout",
+    "messages": "Messages",
+    "users": "Users",
+    "reports": "Reports",
+    "loggedOut": "Logged out successfully"
+  },
+  "Messages": {
+    "title": "Messages"
+  },
+  "MessagesTable": {
+    "read": "Read",
+    "unread": "Unread",
+    "name": "Name",
+    "message": "Message",
+    "gender": "Gender",
+    "country": "Country",
+    "status": "Status",
+    "received": "Received",
+    "actions": "Actions",
+    "messageRemoveSuccess": "Message deleted successfully",
+    "noMessages": "No messages found",
+    "viewDetails": "View details",
+    "delete": "Delete",
+    "female": "Female",
+    "male": "Male",
+    "rowsPerPage": "Rows per page",
+    "displayedRows": "{from}-{to} of {count}",
+    "disableInfiniteScroll": "Disable infinite scroll",
+    "enableInfiniteScroll": "Enable infinite scroll"
+  },
+  "MessageDetail": {
+    "title": "Viewing Details",
+    "name": "Name",
+    "message": "Message",
+    "gender": "Gender",
+    "country": "Country",
+    "backToList": "Back to list",
+    "markedAsRead": "Marked as read",
+    "female": "Female",
+    "male": "Male",
+    "messageNotFound": "Message not found"
+  },
+  "MessageForm": {
+    "title": "Send us a message",
+    "name": "Name",
+    "message": "Message",
+    "gender": "Gender",
+    "country": "Country",
+    "female": "Female",
+    "male": "Male",
+    "submit": "Submit",
+    "thankYou": "Thank you for your message!",
+    "nameRequired": "Name is required",
+    "messageRequired": "Message is required",
+    "maxMessageLength": "Message must be shorter than 500 characters",
+    "maxNameLength": "Name must be shorter than 50 characters"
+  },
+  "UserDetail": {
+    "add": "Add User",
+    "update": "Update User",
+    "backToList": "Back to list",
+    "username": "Username",
+    "password": "Password",
+    "role": "Role",
+    "reader": "Reader",
+    "passwordRequired": "Password is required",
+    "usernameRequired": "Username is required",
+    "maxUsernameLength": "Username must be shorter than 10 characters",
+    "maxPasswordLength": "Password must be shorter than 10 characters",
+    "photoRequired": "Photo is required",
+    "userNotFound": "User not found",
+    "addedSuccess": "User {username} added successfully",
+    "updatedSuccess": "User {username} updated successfully"
+  },
+  "ImageUpload": {
+    "dragAndDrop": "Drag 'n' drop an image here, or click button to select one",
+    "reupload": "Choose a different image to be uploaded",
+    "remove": "Remove image",
+    "uploadPhoto": "Upload Photo"
+  },
+  "Reports": {
+    "title": "Reports",
+    "messageCountByCountry": "Message count by country",
+    "messageCountByGender": "Message count by gender",
+    "female": "Female",
+    "male": "Male"
+  },
+  "Users": {
+    "title": "Users",
+    "addUser": "Add User"
+  },
+  "UsersTable": {
+    "photo": "Photo",
+    "username": "Username",
+    "edit": "Edit",
+    "noUsers": "No users found",
+    "editUserDetails": "Edit user details"
+  },
+  "NotAuthorized": {
+    "title": "403 - Not Authorized",
+    "message": "You are not authorized to view this page.",
+    "backToHome": "Take me back to the homepage"
+  },
+  "NotFound": {
+    "title": "404 - Not Found",
+    "message": "The page you are looking for does not exist."
+  }
+}
